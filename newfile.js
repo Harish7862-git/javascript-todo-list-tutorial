@@ -1,2 +1,1 @@
-console.log("new file js");
-console.log("commit it ");
+"console.log('Hello, World!');" 
